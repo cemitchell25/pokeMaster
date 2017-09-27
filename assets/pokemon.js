@@ -49,6 +49,7 @@ function displayPokemon() {
 
          $("#picPlace").append('<img class="picStyle" src="' + picURL + '">');
          $("#pokePower").append(masterResult + '<br>' + "PokePower: " + pokeCompare.MasterPokePower);
+         $("pokePower").attr("#pokeFont");
 
        })
     }

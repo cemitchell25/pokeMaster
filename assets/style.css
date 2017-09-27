@@ -1,3 +1,10 @@
+body {
+
+  background-image: url("./images/pika.jpg");
+  background-size: cover;
+
+}
+
 #mainTitle {
 
   text-align: center;
@@ -40,4 +47,17 @@
   height: 125px;
   width: 125px;
   margin: 10px 0 10px 0;
+}
+
+#pokePower {
+
+  color: white;
+  font-size: 25px;
+}
+
+#pokePowerTwo {
+
+  color: white;
+  font-size: 25px;
+
 }
