@@ -1,0 +1,43 @@
+#mainTitle {
+
+  text-align: center;
+  font-size: 100px;
+}
+
+.styleBlock {
+
+  background-color: red;
+  text-align: center;
+
+}
+
+#vsTitle {
+
+  text-align: center;
+  font-size: 50px;
+}
+
+.vsStyle {
+
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.pokeBall {
+
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+
+.picStyle {
+
+  background-color: white;
+  border-radius: 5px;
+  height: 125px;
+  width: 125px;
+  margin: 10px 0 10px 0;
+}
